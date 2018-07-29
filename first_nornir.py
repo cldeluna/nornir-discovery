@@ -83,7 +83,7 @@ def main():
 
     print("Print run results with the print_result module (this is an Ansible like run status)...")
     print_result(result)
-    print(dir(result))
+
 
 
 

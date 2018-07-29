@@ -1,0 +1,10 @@
+---
+eu-med-as01:
+  nornir_host: 10.1.10.201
+  groups: ['uwaco_network']
+
+
+pacific-as01:
+  nornir_host: 10.1.10.203
+  groups: ['uwaco_network']
+

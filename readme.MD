@@ -5,7 +5,7 @@
 
 First test with Nornir.
 
-This was my first use of Nornir.  I started out with the sample get facts run_Nornir.py script from from [Patrick Ogenstad at Networklore.](https://networklore.com/introducing-brigade/)
+This was my first use of Nornir.  I started out with the sample get facts run_nornir.py script from from [Patrick Ogenstad at Networklore.](https://networklore.com/introducing-brigade/)
 
 The first_nornir.py script is my attempt to decompose the objects and resulting data structures.
 
